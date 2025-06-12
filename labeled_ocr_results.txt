@@ -1,0 +1,484 @@
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\9 - 1.jpg
+  - Frame 9
+  - Spider # 9
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\9 - 2.JPG
+  - Frame 9
+  - Spider # 9
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\9 - 3.JPG
+  - Frame 9
+  - Spider # 9
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\9 - 4.JPG
+  - Frame 9
+  - Spider # 9
+  - Species A
+  - Treatment 1ST
+  - Web 4
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\9 - 5.JPG
+  - Frame 9
+  - Spider # 9
+  - Species A
+  - Treatment 1ST
+  - Web 5
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\9 - C.JPG
+  - Frame 9
+  - Spider # 9
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\19 - 1.JPG
+  - Frame 3
+  - Spider # 19
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\19 - 2.JPG
+  - Frame 3
+  - Spider # 19
+  - Species A
+  - Treatment Unmatched: 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\19 - 3.JPG
+  - Frame 3
+  - Spider # 19
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\19 - C.JPG
+  - Frame 3
+  - Spider # 19
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\25 - 1.JPG
+  - Frame 10
+  - Spider # 25
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\25 - 2.JPG
+  - Frame 10
+  - Spider # 25
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\25 - 3.JPG
+  - Frame 10
+  - Spider # 25
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\25 - C.JPG
+  - Frame 10
+  - Spider # 25
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\26 - 1.JPG
+  - Frame 14
+  - Spider # 26
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\26 - 2.JPG
+  - Frame 14
+  - Spider # 26
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\26 - 3.JPG
+  - Frame 14
+  - Spider # 26
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\26 - 4.JPG
+  - Frame 14
+  - Spider # 26
+  - Species A
+  - Treatment 1ST
+  - Web 4
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\26 - 5.JPG
+  - Frame 14
+  - Spider # 26
+  - Species A
+  - Treatment 1ST
+  - Web 5
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\26 - C.JPG
+  - Frame 14
+  - Spider # 26
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\29 - 1.JPG
+  - Frame 11
+  - Spider 29
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\29 - 2.JPG
+  - Frame 11
+  - Spider # 29
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\29 - 3.JPG
+  - Frame 11
+  - Spider # 29
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\29 - C.JPG
+  - Frame 11
+  - Spider # 29
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\32 - 1.JPG
+  - Frame 16
+  - Spider # 32
+  - Species A
+  - Treatment 1ST
+  - Web A
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\32 - 3.JPG
+  - Frame 16
+  - Spider # 32
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\32 - C.JPG
+  - Frame 16
+  - Spider # 32
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\36 - 1.JPG
+  - Frame 6
+  - Spider # 36
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\36 - 2.JPG
+  - Frame 6
+  - Spider # 36
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\36 - 3.JPG
+  - Frame 6
+  - Spider # 36
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\36 - C.JPG
+  - Frame 6
+  - Spider # 36
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\39 - 1.JPG
+  - Frame 7
+  - Spider # 39
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\39 - 2.JPG
+  - Frame 7
+  - Spider # 39
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\39 - 3.JPG
+  - Frame 7
+  - Spider # 39
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\39 - C.JPG
+  - Frame 7
+  - Spider # 39
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\40 - 1.JPG
+  - Frame 15
+  - Spider # 40
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\40 - 2.JPG
+  - Frame 15
+  - Spider # 40
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\40 - 3.JPG
+  - Frame 15
+  - Spider # 40
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\40 - C.JPG
+  - Frame 15
+  - Spider # 40
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\41 - 1.JPG
+  - Frame 1
+  - Spider 41
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\41 - 2.JPG
+  - Frame 1
+  - Spider # 41
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\41 - 3.JPG
+  - Frame 1
+  - Spider # 41
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\41 - C.JPG
+  - Frame 1
+  - Spider # 41
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\42 - 1.JPG
+  - Frame 17
+  - Spider # 42
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\42 - 3.JPG
+  - Frame 17
+  - Spider # 42
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\42 - C.JPG
+  - Frame 17
+  - Spider # 42
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\43 - 1.JPG
+  - Frame 19
+  - Spider # 43
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\43 - 2.JPG
+  - Frame 19
+  - Spider # 43
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\43 - 3.JPG
+  - Frame 19
+  - Spider # 43
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\43 - C.JPG
+  - Frame 19
+  - Spider # 43
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\48 - 1.JPG
+  - Frame 11
+  - Spider # 48
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\48 - 2.JPG
+  - Frame 11
+  - Spider # 48
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\48 - 3.JPG
+  - Frame 11
+  - Spider # 48
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\48 - C.JPG
+  - Frame 11
+  - Spider 48
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\49 - 1.JPG
+  - Frame 12
+  - Spider 49
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\49 - 2.JPG
+  - Frame 12
+  - Spider # 49
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\49 - 3.JPG
+  - Frame 12
+  - Spider # 49
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\49 - C.JPG
+  - Frame 12
+  - Spider # 49
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\50 - 1.JPG
+  - Frame 13
+  - Spider # 50
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\50 - 2.JPG
+  - Frame 13
+  - Spider # 50
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\50 - 3.JPG
+  - Frame 13
+  - Spider # 50
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\50 - C.JPG
+  - Frame 13
+  - Spider # 50
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\56 - 2.JPG
+  - Frame 1
+  - Spider # 56
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\56 - 3.JPG
+  - Frame 1
+  - Spider # 56
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\56 - C.JPG
+  - Frame 1
+  - Spider # 56
+  - Species A
+  - Treatment NA
+  - Web C
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\58 - 1.JPG
+  - Frame 17
+  - Spider # 58
+  - Species A
+  - Treatment 1ST
+  - Web 1
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\58 - 2.JPG
+  - Frame 17
+  - Spider # 58
+  - Species A
+  - Treatment 1ST
+  - Web 2
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\58 - 3.JPG
+  - Frame 17
+  - Spider # 58
+  - Species A
+  - Treatment 1ST
+  - Web 3
+
+Image Path: C:\Files\Araneus diadematus\Missing leg study\Missing leg treatment\58 - C.JPG
+  - Frame 17
+  - Spider # 58
+  - Species A
+  - Treatment NA
+  - Web C
+
+
